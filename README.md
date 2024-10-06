@@ -10,8 +10,8 @@
 # Components Used:
   Arduino Board (e.g., Arduino Uno)
   LED
-  Toggle Button (6 pins)
-  Momentary Button (2 pins)
+  Toggle Button 
+  Momentary Button 
   Resistors (optional, but using internal pull-up resistors)
   Breadboard and Jumper Wires
 
